@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/115
     wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14061#Lady-Byron-Vindicated--13-A-history-of-the-Byron-controversy-from-its-beginning-in-1816-to-th_
 gutenberg_issued: '2004-11-16'
 gutenberg_type: Text
 identifiers:
