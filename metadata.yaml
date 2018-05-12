@@ -1,0 +1,35 @@
+_repo: Lady-Byron-Vindicated--13-A-history-of-the-Byron-controversy-from-its-beginning-in-1816-to-th__14061
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Stowe, Harriet Elizabeth Beecher
+    - Stowe, H. B. (Harriet Beecher)
+    - Crowfield, Christopher
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+description: ''
+gutenberg_issued: '2004-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14061'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Byron, George Gordon Byron, Baron, 1788-1824 -- Marriage'
+- !lcsh 'Poets, English -- 19th century -- Biography'
+- !lcsh 'Authors'' spouses -- Great Britain -- Biography'
+- !lcsh 'Byron, Anne Isabella (Milbanke) Byron, Baroness, 1792-1860'
+- !lcc 'PR'
+title: "Lady Byron Vindicated\r\nA history of the Byron controversy from its beginning\
+  \ in 1816 to the present time"
+url: http://www.gutenberg.org/ebooks/14061
